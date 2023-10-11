@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "547546688927",
+    "firebase_url": "https://loginsystem-bf5db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginsystem-bf5db",
+    "storage_bucket": "loginsystem-bf5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547546688927:android:f6779573ba0af04d16a1aa",
+        "android_client_info": {
+          "package_name": "com.appsnipp.loginsamples"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcVlagWQsvjoPN4vnd5ez7mcOgx9QY7cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547546688927:android:5fcfff78ca68a4d416a1aa",
+        "android_client_info": {
+          "package_name": "com.example.logintest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcVlagWQsvjoPN4vnd5ez7mcOgx9QY7cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
